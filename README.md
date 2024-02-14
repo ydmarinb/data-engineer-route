@@ -30,8 +30,8 @@
 - *Spark* https://www.udemy.com/course/best-hands-on-big-data-practices-and-use-cases-using-pyspark/
 
 - *Kafka* 
-      - https://www.youtube.com/watch?v=Ch5VhJzaoaI&t=315s
-      - https://www.youtube.com/watch?v=KerNf0NANMo
+    - https://www.youtube.com/watch?v=Ch5VhJzaoaI&t=315s
+    - https://www.youtube.com/watch?v=KerNf0NANMo
 
 # Cloud
 ---------------------------------------------------------
